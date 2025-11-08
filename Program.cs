@@ -1,4 +1,4 @@
-﻿// content main
+﻿// main content
 
 using System;
 using contactbook.Services;
