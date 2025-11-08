@@ -1,0 +1,14 @@
+C:\Users\icaro\OneDrive\Documentos\contactbook\bin\Debug\net9.0\contact-book.exe
+C:\Users\icaro\OneDrive\Documentos\contactbook\bin\Debug\net9.0\contact-book.deps.json
+C:\Users\icaro\OneDrive\Documentos\contactbook\bin\Debug\net9.0\contact-book.runtimeconfig.json
+C:\Users\icaro\OneDrive\Documentos\contactbook\bin\Debug\net9.0\contact-book.dll
+C:\Users\icaro\OneDrive\Documentos\contactbook\bin\Debug\net9.0\contact-book.pdb
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.AssemblyInfoInputs.cache
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.AssemblyInfo.cs
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.csproj.CoreCompileInputs.cache
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.dll
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\refint\contact-book.dll
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.pdb
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.genruntimeconfig.cache
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\ref\contact-book.dll

@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Name": "Icaro Gabriel",
+    "Telephone": 27992929825,
+    "Email": "icaro.gab09@gmail.com",
+    "CreatedDate": "2025-11-08T18:17:18.6892463-03:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Julio Alves",
+    "Telephone": 27909097643,
+    "Email": "julio@ucl.br",
+    "CreatedDate": "2025-11-08T18:18:07.1193231-03:00"
+  }
+]
