@@ -1,3 +1,5 @@
+// data project = "entities"
+
 using System;
 
 namespace contactbook.Entities
