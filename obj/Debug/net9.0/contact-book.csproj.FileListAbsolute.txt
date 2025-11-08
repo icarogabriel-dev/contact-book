@@ -12,3 +12,4 @@ C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\refint\contact-b
 C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.pdb
 C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.genruntimeconfig.cache
 C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\ref\contact-book.dll
+C:\Users\icaro\OneDrive\Documentos\contactbook\obj\Debug\net9.0\contact-book.sourcelink.json
